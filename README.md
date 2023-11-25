@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Najm Aldeen Sunbol
 ==========================================================================================================================================
 
-Full Stack Developer
+SOFTWARE ENGINEER
 --------------------
 
 I'm a recent graduate deeply enthusiastic about Full Stack Development. I thrive on bringing ideas to life through comprehensive, end-to-end software solutions. Dive into my repositories to see how I blend functionality with creativity!
